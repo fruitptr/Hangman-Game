@@ -1,0 +1,14 @@
+﻿  HANGMAN GAME.cpp
+E:\HANGMAN PROJECT\HANGMAN GAME.cpp(39,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\HANGMAN PROJECT\HANGMAN GAME.cpp(401,24): warning C4018: '<': signed/unsigned mismatch
+E:\HANGMAN PROJECT\HANGMAN GAME.cpp(443,23): warning C4018: '<': signed/unsigned mismatch
+E:\HANGMAN PROJECT\HANGMAN GAME.cpp(459,22): warning C4018: '<': signed/unsigned mismatch
+E:\HANGMAN PROJECT\HANGMAN GAME.cpp(487,23): warning C4018: '<': signed/unsigned mismatch
+E:\HANGMAN PROJECT\HANGMAN GAME.cpp(520,23): warning C4018: '<': signed/unsigned mismatch
+E:\HANGMAN PROJECT\HANGMAN GAME.cpp(943,23): warning C4018: '<': signed/unsigned mismatch
+E:\HANGMAN PROJECT\HANGMAN GAME.cpp(960,22): warning C4018: '<': signed/unsigned mismatch
+E:\HANGMAN PROJECT\HANGMAN GAME.cpp(990,23): warning C4018: '<': signed/unsigned mismatch
+E:\HANGMAN PROJECT\HANGMAN GAME.cpp(1023,23): warning C4018: '<': signed/unsigned mismatch
+E:\HANGMAN PROJECT\HANGMAN GAME.cpp(1080,20): warning C4018: '<': signed/unsigned mismatch
+E:\HANGMAN PROJECT\HANGMAN GAME.cpp(1088,20): warning C4018: '<': signed/unsigned mismatch
+  HANGMAN.vcxproj -> E:\HANGMAN PROJECT\HANGMAN\Debug\HANGMAN.exe
